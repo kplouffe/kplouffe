@@ -9,7 +9,7 @@ navbar:
     - text: "GIS Work"
       icon: fa-globe-americas
       href: geog176A.html
-    - text: "Currciculum vitae"
+    - text: "CV/Resume"
       icon: fa-university
       href: CV.html
   right:
