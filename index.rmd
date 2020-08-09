@@ -1,0 +1,16 @@
+---
+title: <center>"About Me"</center>
+---
+  
+<center>
+![](img/scuba.png){width="25%"}
+</center>
+  
+
+<center>
+# Kyler Plouffe
+</center>
+
+<center>
+  I'm an  <i class="fas fa-fish" style="color:#33B5FF;"></i> Aquatic Biology <i class="fas fa-fish" style="color:#33B5FF;"></i>  major within the EEMB department at UCSB. During the school year you can find me working in the REEF down on campus point. I'm interested in aquaculture and its many applications.
+</center>

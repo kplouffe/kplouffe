@@ -1,0 +1,11 @@
+---
+title: "Projects in R"
+---
+
+In <i class="far fa-sun" style="color:yellow;"></i>Summer 2020<i class="far fa-sun" style="color:yellow;"></i> I took an <i class="fab fa-r-project" style="color:blue;"></i>-based GIS class. I wrote some code and created some cool stuff on the internet.
+
+## [Building a project website](https://github.com/kplouffe/kplouffe)
+
+- In this assignment I built a personal website to host the various projects completed through the class
+- There is a github repo linked above for access to the code
+- Practiced creating aesthetically pleasing web pages
