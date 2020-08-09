@@ -8,7 +8,7 @@ title: <center>"About Me"</center>
   
 
 <center>
-# Kyler Plouffe
+## Kyler Plouffe
 </center>
 
 <center>

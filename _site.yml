@@ -9,9 +9,12 @@ navbar:
     - text: "GIS Work"
       icon: fa-globe-americas
       href: geog176A.html
+    - text: "Currciculum vitae"
+      icon: fa-university
+      href: CV.html
   right:
     - icon: fa-github
       href: https://github.com/kplouffe
 output:
   html_document:
-    theme: darkly
+    theme: sandstone
