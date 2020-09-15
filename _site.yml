@@ -11,7 +11,7 @@ navbar:
       href: geog176A.html
     - text: "CV/Resume"
       icon: fa-university
-      href: img/KPlouffe_ResumeDraft2.pdf
+      href: img/KPlouffe_Resume.pdf
   right:
     - icon: fa-github
       href: https://github.com/kplouffe
