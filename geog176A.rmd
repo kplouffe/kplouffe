@@ -9,3 +9,23 @@ In <i class="far fa-sun" style="color:yellow;"></i>Summer 2020<i class="far fa-s
 - Built a personal website to host the various projects completed throughout the course
 - Learned to push website updates through github
 - Practiced creating aesthetically pleasing web pages
+
+## [COVID-19 Pandemic](https://kplouffe.github.io/geog-176A-labs/lab-02.html)
+
+- 
+
+## [Distances and the Border Zone](https://kplouffe.github.io/geog-176A-labs/lab-03.html)
+
+- 
+
+## [Tesselations, Point-in-Polygon](https://kplouffe.github.io/geog-176A-labs/lab-04.html)
+
+- 
+
+## [Rasters and Remote Sensing](https://kplouffe.github.io/geog-176A-labs/lab-05.html)
+
+- 
+
+## [Flood Risk in Mission Creek: Past, Present, Future](https://kplouffe.github.io/geog-176A-labs/lab-06.html)
+
+- 
