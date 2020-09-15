@@ -3,7 +3,7 @@ title: <center>"About Me"</center>
 ---
   
 <center>
-![](img/scuba.png){width="25%"}
+![](img/scuba.png){width="50%"}
 </center>
   
 
@@ -14,5 +14,5 @@ title: <center>"About Me"</center>
 </center>
 
 <center>
-  I'm an  <i class="fas fa-fish" style="color:#33B5FF;"></i> Aquatic Biology <i class="fas fa-fish" style="color:#33B5FF;"></i>  major within the EEMB department at UCSB. During the school year you can find me working in the REEF down on campus point. I'm interested in aquaculture and its many applications.
+  I'm an  <i class="fas fa-fish" style="color:#33B5FF;"></i> Aquatic Biology <i class="fas fa-fish" style="color:#33B5FF;"></i>  major within the EEMB department at UCSB. During the school year you can find me working in the REEF down on campus point. I am a research intern in the Culver Lab at the Marine Science Institute, working on rock scallop aquaculture. I am interested in figuring out how we can utilize native species in a hatchery setting.
 </center>
