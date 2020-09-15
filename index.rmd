@@ -1,5 +1,5 @@
 ---
-title: <center>"About Me"</center>
+title: "About Me"
 ---
   
 <center>
