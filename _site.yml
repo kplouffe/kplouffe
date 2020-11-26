@@ -9,9 +9,12 @@ navbar:
     - text: "GIS Work"
       icon: fa-globe-americas
       href: geog176A.html
-    - text: "CV/Resume"
+    - text: "Papers"
+      icon: fa-newspaper
+      href: papers.html
+    - text: "CV"
       icon: fa-university
-      href: img/KPlouffe_Resume.pdf
+      href: img/kplouffe_CV_oct2020.pdf
   right:
     - icon: fa-github
       href: https://github.com/kplouffe
